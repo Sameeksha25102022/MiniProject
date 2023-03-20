@@ -1,0 +1,8 @@
+2023-03-16 18:29:59.781 [main] INFO  org.example.Calculator1 - [POWER - 6.0 RAISED TO] 6.0
+2023-03-16 18:29:59.785 [main] INFO  org.example.Calculator1 - [RESULT - POWER] - 46656.0
+2023-03-16 18:31:29.993 [main] INFO  org.example.Calculator1 - [NATURAL LOG] - 6.0
+2023-03-16 18:31:29.996 [main] INFO  org.example.Calculator1 - [RESULT - NATURAL LOG] - 1.791759469228055
+2023-03-16 18:31:57.658 [main] INFO  org.example.Calculator1 - [NATURAL LOG] - 2.0
+2023-03-16 18:31:57.658 [main] INFO  org.example.Calculator1 - [RESULT - NATURAL LOG] - 0.6931471805599453
+2023-03-16 18:32:03.302 [main] INFO  org.example.Calculator1 - [POWER - 4.0 RAISED TO] 4.0
+2023-03-16 18:32:03.303 [main] INFO  org.example.Calculator1 - [RESULT - POWER] - 256.0
